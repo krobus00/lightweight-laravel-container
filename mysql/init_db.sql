@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS `test_lara` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
